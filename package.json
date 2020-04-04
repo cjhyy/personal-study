@@ -1,0 +1,29 @@
+{
+  "name": "personal-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "moment": "^2.24.0",
+    "vuepress": "^1.4.0"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "test": "node config/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjhyy/personal-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjhyy/personal-study/issues"
+  },
+  "homepage": "https://github.com/cjhyy/personal-study#readme"
+}

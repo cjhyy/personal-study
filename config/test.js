@@ -1,0 +1,5 @@
+var filehelper = require('./getFilenames.js')
+const path = require("path")
+const rootpath = path.dirname(__dirname)
+ let a=filehelper.getFileName(`${rootpath}/docs/Browser`)
+ console.log(a)
