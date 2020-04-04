@@ -14,7 +14,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "git bash deploy.sh",
+    "deploy": "bash deploy.sh",
     "test": "node config/test.js"
   },
   "repository": {
