@@ -3,7 +3,8 @@ const moment = require('moment')
 module.exports = {
     title: 'cjhyy-study',
     description: '春江花月夜的学习仓库',
-    base: '/PersonalStudy/',
+    dest:'.vuepress/dist',
+    base: '/personal-study/',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }], // 增加一个自定义的 favicon(网页标签的图标)
     ],
