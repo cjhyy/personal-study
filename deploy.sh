@@ -11,16 +11,12 @@ cd dist
 # echo 'www.example.com' > CNAME
 
 git init
-
-git config --global user.name "cjhyy"
-git config --global user.email "chenjunhong54321@163.com"
-
 git add -A
 git commit -m 'deploy'
 
 
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
- git push -f git@github.com:cjhyy/personal-study.git master:gh-pages
+ git push -f https://github.com/cjhyy/personal-study.git master:gh-pages
 
 cd -
