@@ -4,13 +4,12 @@ title: 首页
 
 ## 介绍
 
-关于 JavaScript 的概念，记一遍加深印象，方便快速查询。
+对JavaScript进行知识系统整理
 
 
 
 ## 参考资料
 
-2. 《JavaScript 权威指南》
-3. [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-4. [MDN](https://developer.mozilla.org/zh-CN/)
-5. [ECMA](https://www.ecma-international.org/)
+1. <a href="https://drive.google.com/file/d/1pg27Na2WjWFgTTERSbr72LtgE216DtzH/view?usp=sharing" target="_blank">《JavaScript 权威指南》第六版</a>
+2. <a href="https://drive.google.com/file/d/1qGOKdd6q12LfrvZ4Y_OccqVhLqiwXNqM/view?usp=sharing" target="_blank">《ES6标准入门》阮一峰</a>
+
