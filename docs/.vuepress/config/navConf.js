@@ -1,6 +1,7 @@
 module.exports = [
   { text: '前端', items: [
-    { text: 'JavaScript', link: '/frontend/javascript/' },
+    { text: 'JavaScript基础', link: '/frontend/javascript/' },
+    { text: 'JavaScript核心', link: '/frontend/js/' },
   ]},
   // { text: '后端', items: [
   //   { text: 'Nodejs', link: '/backend/nodejs/' },

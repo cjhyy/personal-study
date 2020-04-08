@@ -1,5 +1,5 @@
 ---
-autoGroup-2:JavaScript权威指南
+autoGroup-2: JavaScript权威指南
 title: 词法结构
 ---
 
