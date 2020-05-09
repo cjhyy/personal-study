@@ -1,4 +1,5 @@
 ---
+autoGroup-2: JavaScript权威指南
 title: 原型链和原型
 ---
 
